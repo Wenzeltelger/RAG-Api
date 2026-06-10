@@ -1,0 +1,6 @@
+@SemanticKnowledgeApi_HostAddress = http://localhost:5114
+
+GET {{SemanticKnowledgeApi_HostAddress}}/health
+Accept: application/json
+
+###

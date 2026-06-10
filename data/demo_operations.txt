@@ -1,0 +1,5 @@
+Title: Supplier Payment Workflow (Source: DemoKnowledgeBase)
+To record a supplier payment in a demo operations workflow, open the application, choose the supplier payment option, enter the invoice reference, verify the amount, and confirm the transaction. The payment status should be reviewed after submission.
+
+Title: Inventory Management (Source: DemoKnowledgeBase)
+Healthy inventory practices reduce missed sales and waste. Review high-turnover products frequently, organize stock using first-in-first-out handling, and schedule periodic physical inventory counts to keep records aligned with available items.

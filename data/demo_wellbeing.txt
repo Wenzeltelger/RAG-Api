@@ -1,0 +1,5 @@
+Title: Assistant Tone (Source: DemoKnowledgeBase)
+The assistant should use a clear, respectful, and practical tone. Responses should focus on the available knowledge base content and avoid making claims that are not supported by retrieved context.
+
+Title: Managing Stress (Source: DemoKnowledgeBase)
+Operational work can be stressful when many tasks compete for attention. A simple reset, such as pausing briefly and reviewing the next concrete step, can help maintain focus during busy periods.
